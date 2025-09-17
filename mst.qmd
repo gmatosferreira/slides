@@ -1,0 +1,46 @@
+---
+format: revealjs
+---
+
+# Welcome to MTS! 
+
+🚶🚲🚆🚍⛴️🚖✈️
+
+By Gonçalo Matos
+
+## Topics
+
+- About me 
+- About MTS
+- Thesis and research
+- Let's keep in touch!
+
+# About me {.center}
+
+I am a **programmer** who is interested in **writing** (not only code), **mobility** and **equality**.
+
+💻🛤🏙️️🫂
+
+# About MTS
+
+## First year {.center}
+
+![](mst/program_1.jpeg){.r-stretch}
+
+<u>Policies and planning</u> or <u>engineering</u>?
+
+## Second year {.center}
+
+![](mst/program_2.jpeg){.r-stretch}
+
+
+# Thesis and research
+
+You have 1.5 years to figure out what you are most passionate about in the transportation world, enjoy it! 🙂
+
+
+# Let's keep in touch!
+
+✉️ goncaloafmatos@tecnico.ulisboa.pt
+
+📞 +351 927 395 705
