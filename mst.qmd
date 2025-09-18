@@ -1,5 +1,7 @@
 ---
 format: revealjs
+project:
+  output-dir: /docs
 ---
 
 # Welcome to MTS! 
@@ -10,7 +12,7 @@ By Gonçalo Matos
 
 ## Topics
 
-- About me 
+- About us 
 - About MTS
 - Thesis and research
 - Let's keep in touch!
@@ -21,7 +23,14 @@ I am a **programmer** who is interested in **writing** (not only code), **mobili
 
 💻🛤🏙️️🫂
 
+
+# About you
+
+👀👋
+
 # About MTS
+
+[Check the program 👀](/mst/plano_curricular.pdf){target="_blank"}
 
 ## First year {.center}
 
@@ -38,9 +47,23 @@ I am a **programmer** who is interested in **writing** (not only code), **mobili
 
 You have 1.5 years to figure out what you are most passionate about in the transportation world, enjoy it! 🙂
 
+[Check this year themes 👀](https://fenix.tecnico.ulisboa.pt/cursos/mst/dissertacoes){target="_blank"}
+
+
+# Get involved!
+
+[🚶‍♂️🚲🚍 U-shift research lab](https://ushift.tecnico.ulisboa.pt/){target="_blank"}
+
+[🚆 ISTrain students team](https://sites.google.com/tecnico.ulisboa.pt/istrain-pt/){target="_blank"}
+
+[🛤️ Rail group](http://www.rail-group.pt/){target="_blank"}
 
 # Let's keep in touch!
 
 ✉️ goncaloafmatos@tecnico.ulisboa.pt
 
 📞 +351 927 395 705
+
+🌐 [gmatos.pt](https://gmatos.pt){target="_blank"}
+
+![](/mst/url.svg){style="position: absolute; right: 0; bottom: 0; width: 15vw; height: 15vh;"}
